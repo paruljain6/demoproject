@@ -1,1 +1,2 @@
 # demoproject
+echo"hello"
